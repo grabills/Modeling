@@ -27,3 +27,7 @@ This project requires the following Julia packages for geometry handling, linear
 
 ```julia
 pkg> add GeometryBasics CoordinateTransformations Rotations FileIO MeshIO GLMakie
+
+Image1
+
+Image2
